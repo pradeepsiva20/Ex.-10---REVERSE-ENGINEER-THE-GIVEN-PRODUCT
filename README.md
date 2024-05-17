@@ -36,8 +36,8 @@
 ### Output:
 ![image](https://github.com/PriyankaAnnadurai/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118351569/f8dfeb20-d6e8-4bfb-be3f-6fd22fa23506)
 
-### Name: YUVARAJ V
-### Register Number: 212223230252
+### Name: PRADEEP S
+### Register Number: 212222100034
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
